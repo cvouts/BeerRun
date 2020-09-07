@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 23c158a048a2f2c40a9190e5cb185d3f
+timeCreated: 1519816732
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Coiny
+  fontNames:
+  - Coiny
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
